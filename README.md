@@ -9,8 +9,8 @@
    ```bash
    pip install pandas numpy yfinance scikit-learn matplotlib seaborn apscheduler
 ## 运行 
-a) main.py 查看单次预测和交易结果：python main.py
-b) 运行 scheduler.py 启动自动化任务：python scheduler.py
+1. main.py 查看单次预测和交易结果：python main.py
+2. 运行 scheduler.py 启动自动化任务：python scheduler.py
 
 ## 结果
 收益率：6.52%
